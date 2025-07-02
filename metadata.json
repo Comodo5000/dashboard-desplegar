@@ -1,0 +1,5 @@
+{
+  "name": "Dashboard de Gestión Académica",
+  "description": "A fully functional academic management dashboard for TecNM Campus Apatzingán, built with React, TypeScript, and Tailwind CSS. It features routing, state management with Zustand, data persistence, charting, and data export capabilities.",
+  "requestFramePermissions": []
+}
